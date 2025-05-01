@@ -9,11 +9,12 @@ Una aplicación full-stack con FastAPI (Python) en el backend y React + Bootstra
 - 🔍 Filtrar películas por fechas (anteriores, hoy, próximas)  
 - 🌐 Documentación automática con Swagger  
 
-### 1. Clonar el repositorio
+
+Clonar el repositorio
 
 bash
 git clone 
-https://github.com/TU_USUARIO/Peliculas_react_1.git
+[https://github.com/TU_USUARIO/Peliculas_react_1.git](https://github.com/bananareverse/Peliculas_react_1.git)
 cd Peliculas_react_1
 
 
